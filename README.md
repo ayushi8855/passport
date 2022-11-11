@@ -16,3 +16,14 @@ For run backend you need to run following cammand in your terminal
 <p>6. npm install bcrypt</p>
 <p>7. npm i</p>
 </h4>
+
+
+<h4>
+For run Frontend you need to run following cammand in your terminal
+<p>for forntend i have chakra-ui for desinging</p>
+<p>1. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</p>
+<p>2. npm install axios</p>
+<p>3. npm install navigate</p>
+<p>4. npm install react-router-dom</p>
+<p>5. npm i</p>
+</h4>
