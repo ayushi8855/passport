@@ -19,7 +19,7 @@ For run backend you need to run following cammand in your terminal
 
 
 <h4>
-For run Frontend you need to run following cammand in your terminal
+For run Frontend you need to run following cammand in your terminal<br>
 <p>for forntend i have chakra-ui for desinging</p>
 <p>1. npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion</p>
 <p>2. npm install axios</p>
